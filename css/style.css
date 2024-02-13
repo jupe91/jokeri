@@ -1,0 +1,35 @@
+h3 {
+    font-size:x-large;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left: 15px;
+}
+
+table {
+    border-spacing: 15px;
+
+}
+td {
+    border: 1px solid black;
+    text-align: center;
+    background-color: #ffebcd;
+    width: 15px;
+    border-radius: 4px;
+    padding: 3px;
+    margin-left: 15px;
+}
+
+button {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color: #dedff2;
+    color: black;
+    border-radius: 6px;
+    border-color: rgb(100, 109, 109);
+    margin-left: 15px;
+}
+
+p {
+    font-size: 19px;
+    margin-left: 15px;
+}
+
